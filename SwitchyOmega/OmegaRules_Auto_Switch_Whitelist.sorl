@@ -1,0 +1,26 @@
+[SwitchyOmega Conditions]
+; Require: SwitchyOmega >= 2.3.2
+; Date: 2023/2/20
+; Usage: https://github.com/FelisCatus/SwitchyOmega/wiki/RuleListUsage
+
+!*.google.com
+!*.twimg.com
+!*.twitter.com
+!*.bing.com
+*.douyinpic.com
+*.byteimg.com
+*.bilibili.com
+118.89.204.198
+*.baidu.com
+*.vzuu.com
+*.zhimg.com
+*.steamchina.com
+*.zhihu.com
+*.weibocdn.com
+*.weibo.cn
+*.sinaimg.cn
+*.sinajs.cn
+*.geetest.com
+*.sina.com.cn
+*.hdslb.com
+*.tp-link.com.cn
